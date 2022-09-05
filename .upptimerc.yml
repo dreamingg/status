@@ -4,9 +4,11 @@ repo: status
 sites:
   - name: Eddie - Chicago, USA - Ryzen 9 3900x
     url: $EDDIE_IP
+    port: $TCP_PING_PORT
     check: "tcp-ping"
   - name: Alex - London, UK - Ryzen 5 5600x
     url: $ALEX_IP
+    port: $TCP_PING_PORT
     check: "tcp-ping"
 
 status-website:
