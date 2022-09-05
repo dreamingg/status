@@ -10,6 +10,12 @@ sites:
     url: $ALEX_IP
     port: $TCP_PING_PORT
     check: "tcp-ping"
+  - name: Game Server Panel (USA)
+    url: $GSP_URL
+  - name: Proxy Management Panel (USA)
+    url: $PRXY_URL
+  - name: Teleport (USA)
+    url: $TP_URL
 
 status-website:
   cname: status.dreamin.dev
