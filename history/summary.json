@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eddie-chicago-usa-ryzen-9-3900x",
     "status": "up",
-    "uptime": "98.60%",
+    "uptime": "98.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.60%",
+    "uptimeYear": "98.61%",
     "time": 72,
     "timeDay": 124,
     "timeWeek": 83,
@@ -28,11 +28,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alex-london-uk-ryzen-5-5600x",
     "status": "up",
-    "uptime": "80.97%",
+    "uptime": "81.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "80.97%",
+    "uptimeYear": "81.12%",
     "time": 107,
     "timeDay": 141,
     "timeWeek": 111,
@@ -65,10 +65,10 @@
     "url": "$GSP_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-panel-usa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
@@ -76,16 +76,18 @@
     "timeWeek": 249,
     "timeMonth": 238,
     "timeYear": 232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-14": 2
+    }
   },
   {
     "name": "Proxy Management Panel (USA)",
     "url": "$PRXY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "proxy-management-panel-usa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -94,7 +96,9 @@
     "timeWeek": 216,
     "timeMonth": 213,
     "timeYear": 210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-14": 0
+    }
   },
   {
     "name": "Teleport (USA)",
