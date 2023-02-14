@@ -1,7 +1,7 @@
 url: $TP_URL
-status: up
-code: 200
-responseTime: 245
-lastUpdated: 2023-02-13T23:12:17.212Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-02-14T03:27:27.861Z
 startTime: Mon Sep 05 2022 04:13:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
