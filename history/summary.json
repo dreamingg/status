@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eddie-chicago-usa-ryzen-9-3900x",
     "status": "up",
-    "uptime": "96.41%",
+    "uptime": "96.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 64,
-    "timeDay": 21,
-    "timeWeek": 28,
-    "timeMonth": 30,
+    "timeDay": 47,
+    "timeWeek": 32,
+    "timeMonth": 31,
     "timeYear": 62,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alex-london-uk-ryzen-5-5600x",
     "status": "down",
-    "uptime": "27.88%",
+    "uptime": "27.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-23": 25,
+      "2024-03-24": 28,
+      "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
@@ -397,8 +398,7 @@
       "2023-03-29": 1440,
       "2023-03-28": 1440,
       "2023-03-27": 1440,
-      "2023-03-26": 1440,
-      "2023-03-25": 1440
+      "2023-03-26": 1440
     }
   },
   {
@@ -412,10 +412,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 144,
-    "timeWeek": 193,
-    "timeMonth": 197,
+    "time": 218,
+    "timeDay": 264,
+    "timeWeek": 211,
+    "timeMonth": 199,
     "timeYear": 214,
     "dailyMinutesDown": {}
   },
@@ -430,10 +430,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 122,
-    "timeWeek": 192,
-    "timeMonth": 177,
+    "time": 198,
+    "timeDay": 261,
+    "timeWeek": 211,
+    "timeMonth": 180,
     "timeYear": 195,
     "dailyMinutesDown": {}
   },
@@ -443,18 +443,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "teleport-usa",
     "status": "down",
-    "uptime": "28.67%",
+    "uptime": "28.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
-    "time": 178,
+    "time": 179,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-23": 25,
+      "2024-03-24": 28,
+      "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
@@ -817,8 +818,7 @@
       "2023-03-29": 1440,
       "2023-03-28": 1440,
       "2023-03-27": 1440,
-      "2023-03-26": 1440,
-      "2023-03-25": 1440
+      "2023-03-26": 1440
     }
   }
 ]
