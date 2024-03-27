@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eddie-chicago-usa-ryzen-9-3900x",
     "status": "up",
-    "uptime": "96.43%",
+    "uptime": "96.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 64,
     "timeDay": 22,
-    "timeWeek": 31,
+    "timeWeek": 32,
     "timeMonth": 31,
-    "timeYear": 62,
+    "timeYear": 61,
     "dailyMinutesDown": {}
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alex-london-uk-ryzen-5-5600x",
     "status": "down",
-    "uptime": "27.74%",
+    "uptime": "27.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-26": 25,
+      "2024-03-27": 25,
+      "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
@@ -397,8 +398,7 @@
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
-      "2023-03-29": 1440,
-      "2023-03-28": 1440
+      "2023-03-29": 1440
     }
   },
   {
@@ -407,15 +407,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-panel-usa",
     "status": "up",
-    "uptime": "96.45%",
+    "uptime": "96.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 157,
-    "timeWeek": 207,
-    "timeMonth": 199,
+    "time": 217,
+    "timeDay": 170,
+    "timeWeek": 202,
+    "timeMonth": 201,
     "timeYear": 214,
     "dailyMinutesDown": {}
   },
@@ -431,9 +431,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 129,
-    "timeWeek": 194,
-    "timeMonth": 180,
+    "timeDay": 148,
+    "timeWeek": 180,
+    "timeMonth": 183,
     "timeYear": 195,
     "dailyMinutesDown": {}
   },
@@ -443,18 +443,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "teleport-usa",
     "status": "down",
-    "uptime": "28.52%",
+    "uptime": "28.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
-    "time": 177,
+    "time": 178,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-26": 25,
+      "2024-03-27": 25,
+      "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
@@ -817,8 +818,7 @@
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
-      "2023-03-29": 1440,
-      "2023-03-28": 1440
+      "2023-03-29": 1440
     }
   }
 ]
