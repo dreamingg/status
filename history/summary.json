@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eddie-chicago-usa-ryzen-9-3900x",
     "status": "up",
-    "uptime": "96.46%",
+    "uptime": "96.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 63,
-    "timeDay": 3,
-    "timeWeek": 28,
+    "timeDay": 27,
+    "timeWeek": 25,
     "timeMonth": 30,
     "timeYear": 61,
     "dailyMinutesDown": {}
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alex-london-uk-ryzen-5-5600x",
     "status": "down",
-    "uptime": "27.50%",
+    "uptime": "27.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-31": 29,
+      "2024-04-01": 29,
+      "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
@@ -397,8 +398,7 @@
       "2023-04-06": 1440,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
-      "2023-04-03": 1440,
-      "2023-04-02": 1440
+      "2023-04-03": 1440
     }
   },
   {
@@ -413,10 +413,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 104,
-    "timeWeek": 194,
+    "timeDay": 148,
+    "timeWeek": 172,
     "timeMonth": 196,
-    "timeYear": 214,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -431,8 +431,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 90,
-    "timeWeek": 173,
+    "timeDay": 147,
+    "timeWeek": 154,
     "timeMonth": 180,
     "timeYear": 194,
     "dailyMinutesDown": {}
@@ -443,18 +443,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "teleport-usa",
     "status": "down",
-    "uptime": "28.27%",
+    "uptime": "28.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 179,
+    "time": 178,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-31": 29,
+      "2024-04-01": 29,
+      "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
@@ -817,8 +818,7 @@
       "2023-04-06": 1440,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
-      "2023-04-03": 1440,
-      "2023-04-02": 1440
+      "2023-04-03": 1440
     }
   }
 ]
